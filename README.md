@@ -18,3 +18,11 @@
 
 ## Exercise 7:
 ![exercise_7_example](gifs/exercise_7.gif)
+
+## Exercise 8:
+
+The last exercise is more about the same concept
+
+## Exercise 9:
+
+The exercise 9 is the same as exercise 3
