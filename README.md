@@ -21,7 +21,7 @@
 
 ## Exercise 8:
 
-The last exercise is more about the same concept as the last exercise
+It not done
 
 ## Exercise 9:
 
