@@ -21,7 +21,7 @@
 
 ## Exercise 8:
 
-The last exercise is more about the same concept
+The last exercise is more about the same concept as the last exercise
 
 ## Exercise 9:
 
